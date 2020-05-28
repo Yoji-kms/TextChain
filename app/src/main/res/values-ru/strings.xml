@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Цепочка текста</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="sum">+</string>
+    <string name="sub">-</string>
+    <string name="div">÷</string>
+    <string name="mul">×</string>
+    <string name="clear">C</string>
+    <string name="sign">±</string>
+    <string name="percent">%</string>
+    <string name="clear_txt">очистить</string>
+    <string name="sign_txt">поменять знак</string>
+    <string name="percent_txt">процент</string>
+    <string name="div_txt">разделить</string>
+    <string name="mul_txt">умножить</string>
+    <string name="sub_txt">вычесть</string>
+    <string name="sum_txt">прибавить</string>
+    <string name="division_by_zero_message">Деление на ноль невозможно</string>
+    <string name="my_surname">Машнин</string>
+</resources>
